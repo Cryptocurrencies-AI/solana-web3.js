@@ -1,6 +1,6 @@
 // @flow
 
-import {Agent} from 'http';
+import {Agent} from 'https';
 
 export const DESTROY_TIMEOUT_MS = 5000;
 
